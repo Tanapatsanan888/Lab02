@@ -1,0 +1,8 @@
+.navbar{
+    background-color: aqua;
+
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+}
